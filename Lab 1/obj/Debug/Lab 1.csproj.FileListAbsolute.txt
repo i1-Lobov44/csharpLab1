@@ -1,0 +1,89 @@
+C:\Users\sonsor\source\repos\Lab 1\Lab 1\obj\Debug\Lab 1.csprojAssemblyReference.cache
+C:\Users\sonsor\source\repos\Lab 1\Lab 1\obj\Debug\Lab_1.NewUserAddForm.resources
+C:\Users\sonsor\source\repos\Lab 1\Lab 1\obj\Debug\Lab_1.Properties.Resources.resources
+C:\Users\sonsor\source\repos\Lab 1\Lab 1\obj\Debug\Lab 1.csproj.GenerateResource.cache
+C:\Users\sonsor\source\repos\Lab 1\Lab 1\obj\Debug\Lab 1.csproj.CoreCompileInputs.cache
+C:\Users\sonsor\source\repos\Lab 1\Lab 1\obj\Debug\Lab_1.FormUsers.resources
+C:\Users\sonsor\source\repos\Lab 1\Lab 1\bin\Debug\Lab 1.exe.config
+C:\Users\sonsor\source\repos\Lab 1\Lab 1\bin\Debug\Lab 1.exe
+C:\Users\sonsor\source\repos\Lab 1\Lab 1\bin\Debug\Lab 1.pdb
+C:\Users\sonsor\source\repos\Lab 1\Lab 1\obj\Debug\Lab 1.exe
+C:\Users\sonsor\source\repos\Lab 1\Lab 1\obj\Debug\Lab 1.pdb
+C:\Users\padzh_000\Downloads\Lab_1\Lab 1\bin\Debug\Lab 1.exe.config
+C:\Users\padzh_000\Downloads\Lab_1\Lab 1\bin\Debug\Lab 1.exe
+C:\Users\padzh_000\Downloads\Lab_1\Lab 1\bin\Debug\Lab 1.pdb
+C:\Users\padzh_000\Downloads\Lab_1\Lab 1\obj\Debug\Lab 1.csprojAssemblyReference.cache
+C:\Users\padzh_000\Downloads\Lab_1\Lab 1\obj\Debug\Lab_1.NewUserAddForm.resources
+C:\Users\padzh_000\Downloads\Lab_1\Lab 1\obj\Debug\Lab_1.FormUsers.resources
+C:\Users\padzh_000\Downloads\Lab_1\Lab 1\obj\Debug\Lab_1.Properties.Resources.resources
+C:\Users\padzh_000\Downloads\Lab_1\Lab 1\obj\Debug\Lab 1.csproj.GenerateResource.cache
+C:\Users\padzh_000\Downloads\Lab_1\Lab 1\obj\Debug\Lab 1.csproj.CoreCompileInputs.cache
+C:\Users\padzh_000\Downloads\Lab_1\Lab 1\obj\Debug\Lab 1.exe
+C:\Users\padzh_000\Downloads\Lab_1\Lab 1\obj\Debug\Lab 1.pdb
+C:\Users\padzh_000\Desktop\Горяинов Данил\Lab 1\bin\Debug\Lab 1.exe.config
+C:\Users\padzh_000\Desktop\Горяинов Данил\Lab 1\bin\Debug\Lab 1.exe
+C:\Users\padzh_000\Desktop\Горяинов Данил\Lab 1\bin\Debug\Lab 1.pdb
+C:\Users\padzh_000\Desktop\Горяинов Данил\Lab 1\obj\Debug\Lab 1.csprojAssemblyReference.cache
+C:\Users\padzh_000\Desktop\Горяинов Данил\Lab 1\obj\Debug\Lab_1.NewUserAddForm.resources
+C:\Users\padzh_000\Desktop\Горяинов Данил\Lab 1\obj\Debug\Lab_1.FormUsers.resources
+C:\Users\padzh_000\Desktop\Горяинов Данил\Lab 1\obj\Debug\Lab_1.Properties.Resources.resources
+C:\Users\padzh_000\Desktop\Горяинов Данил\Lab 1\obj\Debug\Lab 1.csproj.GenerateResource.cache
+C:\Users\padzh_000\Desktop\Горяинов Данил\Lab 1\obj\Debug\Lab 1.csproj.CoreCompileInputs.cache
+C:\Users\padzh_000\Desktop\Горяинов Данил\Lab 1\obj\Debug\Lab 1.exe
+C:\Users\padzh_000\Desktop\Горяинов Данил\Lab 1\obj\Debug\Lab 1.pdb
+C:\Users\sonsor\Desktop\Горяинов Данил\Lab 1\bin\Debug\Lab 1.exe.config
+C:\Users\sonsor\Desktop\Горяинов Данил\Lab 1\bin\Debug\Lab 1.exe
+C:\Users\sonsor\Desktop\Горяинов Данил\Lab 1\bin\Debug\Lab 1.pdb
+C:\Users\sonsor\Desktop\Горяинов Данил\Lab 1\obj\Debug\Lab 1.csprojAssemblyReference.cache
+C:\Users\sonsor\Desktop\Горяинов Данил\Lab 1\obj\Debug\Lab_1.NewUserAddForm.resources
+C:\Users\sonsor\Desktop\Горяинов Данил\Lab 1\obj\Debug\Lab_1.FormUsers.resources
+C:\Users\sonsor\Desktop\Горяинов Данил\Lab 1\obj\Debug\Lab_1.Properties.Resources.resources
+C:\Users\sonsor\Desktop\Горяинов Данил\Lab 1\obj\Debug\Lab 1.csproj.GenerateResource.cache
+C:\Users\sonsor\Desktop\Горяинов Данил\Lab 1\obj\Debug\Lab 1.csproj.CoreCompileInputs.cache
+C:\Users\sonsor\Desktop\Горяинов Данил\Lab 1\obj\Debug\Lab 1.exe
+C:\Users\sonsor\Desktop\Горяинов Данил\Lab 1\obj\Debug\Lab 1.pdb
+C:\Users\padzh_000\Desktop\44905542a4d839cb\Горяинов Данил\Lab 1\bin\Debug\Lab 1.exe.config
+C:\Users\padzh_000\Desktop\44905542a4d839cb\Горяинов Данил\Lab 1\bin\Debug\Lab 1.exe
+C:\Users\padzh_000\Desktop\44905542a4d839cb\Горяинов Данил\Lab 1\bin\Debug\Lab 1.pdb
+C:\Users\padzh_000\Desktop\44905542a4d839cb\Горяинов Данил\Lab 1\obj\Debug\Lab 1.csprojAssemblyReference.cache
+C:\Users\padzh_000\Desktop\44905542a4d839cb\Горяинов Данил\Lab 1\obj\Debug\Lab_1.NewUserAddForm.resources
+C:\Users\padzh_000\Desktop\44905542a4d839cb\Горяинов Данил\Lab 1\obj\Debug\Lab_1.FormUsers.resources
+C:\Users\padzh_000\Desktop\44905542a4d839cb\Горяинов Данил\Lab 1\obj\Debug\Lab_1.Properties.Resources.resources
+C:\Users\padzh_000\Desktop\44905542a4d839cb\Горяинов Данил\Lab 1\obj\Debug\Lab 1.csproj.GenerateResource.cache
+C:\Users\padzh_000\Desktop\44905542a4d839cb\Горяинов Данил\Lab 1\obj\Debug\Lab 1.csproj.CoreCompileInputs.cache
+C:\Users\padzh_000\Desktop\44905542a4d839cb\Горяинов Данил\Lab 1\obj\Debug\Lab 1.exe
+C:\Users\padzh_000\Desktop\44905542a4d839cb\Горяинов Данил\Lab 1\obj\Debug\Lab 1.pdb
+C:\Users\ivan\Desktop\Мастерская\TODO\C#\форма_1\Горяинов Данил\Lab 1\bin\Debug\Lab 1.exe.config
+C:\Users\ivan\Desktop\Мастерская\TODO\C#\форма_1\Горяинов Данил\Lab 1\bin\Debug\Lab 1.exe
+C:\Users\ivan\Desktop\Мастерская\TODO\C#\форма_1\Горяинов Данил\Lab 1\bin\Debug\Lab 1.pdb
+C:\Users\ivan\Desktop\Мастерская\TODO\C#\форма_1\Горяинов Данил\Lab 1\obj\Debug\Lab 1.csprojAssemblyReference.cache
+C:\Users\ivan\Desktop\Мастерская\TODO\C#\форма_1\Горяинов Данил\Lab 1\obj\Debug\Lab_1.NewUserAddForm.resources
+C:\Users\ivan\Desktop\Мастерская\TODO\C#\форма_1\Горяинов Данил\Lab 1\obj\Debug\Lab_1.FormUsers.resources
+C:\Users\ivan\Desktop\Мастерская\TODO\C#\форма_1\Горяинов Данил\Lab 1\obj\Debug\Lab_1.Properties.Resources.resources
+C:\Users\ivan\Desktop\Мастерская\TODO\C#\форма_1\Горяинов Данил\Lab 1\obj\Debug\Lab 1.csproj.GenerateResource.cache
+C:\Users\ivan\Desktop\Мастерская\TODO\C#\форма_1\Горяинов Данил\Lab 1\obj\Debug\Lab 1.csproj.CoreCompileInputs.cache
+C:\Users\ivan\Desktop\Мастерская\TODO\C#\форма_1\Горяинов Данил\Lab 1\obj\Debug\Lab 1.exe
+C:\Users\ivan\Desktop\Мастерская\TODO\C#\форма_1\Горяинов Данил\Lab 1\obj\Debug\Lab 1.pdb
+C:\Users\ivan\Desktop\Lab 1\Lab 1\bin\Debug\Lab 1.exe.config
+C:\Users\ivan\Desktop\Lab 1\Lab 1\bin\Debug\Lab 1.exe
+C:\Users\ivan\Desktop\Lab 1\Lab 1\bin\Debug\Lab 1.pdb
+C:\Users\ivan\Desktop\Lab 1\Lab 1\obj\Debug\Lab 1.csprojAssemblyReference.cache
+C:\Users\ivan\Desktop\Lab 1\Lab 1\obj\Debug\Lab_1.NewUserAddForm.resources
+C:\Users\ivan\Desktop\Lab 1\Lab 1\obj\Debug\Lab_1.FormUsers.resources
+C:\Users\ivan\Desktop\Lab 1\Lab 1\obj\Debug\Lab_1.Properties.Resources.resources
+C:\Users\ivan\Desktop\Lab 1\Lab 1\obj\Debug\Lab 1.csproj.GenerateResource.cache
+C:\Users\ivan\Desktop\Lab 1\Lab 1\obj\Debug\Lab 1.csproj.CoreCompileInputs.cache
+C:\Users\ivan\Desktop\Lab 1\Lab 1\obj\Debug\Lab 1.exe
+C:\Users\ivan\Desktop\Lab 1\Lab 1\obj\Debug\Lab 1.pdb
+C:\Users\SvejiyKabanchik\Desktop\university\University\ИСИТ\Лабораторные\ИП\Lab 1\Lab 1\bin\Debug\Lab 1.exe.config
+C:\Users\SvejiyKabanchik\Desktop\university\University\ИСИТ\Лабораторные\ИП\Lab 1\Lab 1\bin\Debug\Lab 1.exe
+C:\Users\SvejiyKabanchik\Desktop\university\University\ИСИТ\Лабораторные\ИП\Lab 1\Lab 1\bin\Debug\Lab 1.pdb
+C:\Users\SvejiyKabanchik\Desktop\university\University\ИСИТ\Лабораторные\ИП\Lab 1\Lab 1\obj\Debug\Lab 1.csproj.AssemblyReference.cache
+C:\Users\SvejiyKabanchik\Desktop\university\University\ИСИТ\Лабораторные\ИП\Lab 1\Lab 1\obj\Debug\Lab 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\SvejiyKabanchik\Desktop\university\University\ИСИТ\Лабораторные\ИП\Lab 1\Lab 1\obj\Debug\Lab_1.NewUserAddForm.resources
+C:\Users\SvejiyKabanchik\Desktop\university\University\ИСИТ\Лабораторные\ИП\Lab 1\Lab 1\obj\Debug\Lab_1.FormUsers.resources
+C:\Users\SvejiyKabanchik\Desktop\university\University\ИСИТ\Лабораторные\ИП\Lab 1\Lab 1\obj\Debug\Lab_1.Properties.Resources.resources
+C:\Users\SvejiyKabanchik\Desktop\university\University\ИСИТ\Лабораторные\ИП\Lab 1\Lab 1\obj\Debug\Lab 1.csproj.GenerateResource.cache
+C:\Users\SvejiyKabanchik\Desktop\university\University\ИСИТ\Лабораторные\ИП\Lab 1\Lab 1\obj\Debug\Lab 1.csproj.CoreCompileInputs.cache
+C:\Users\SvejiyKabanchik\Desktop\university\University\ИСИТ\Лабораторные\ИП\Lab 1\Lab 1\obj\Debug\Lab 1.exe
+C:\Users\SvejiyKabanchik\Desktop\university\University\ИСИТ\Лабораторные\ИП\Lab 1\Lab 1\obj\Debug\Lab 1.pdb
